@@ -9,11 +9,14 @@
     "license": "MIT",
     "require": {
         "php": "^7.2",
+        "bissolli/nova-phone-field": "^0.0.4",
         "fideloper/proxy": "^4.0",
+        "inspheric/nova-email-field": "^1.42",
         "laravel/framework": "^6.0",
+        "laravel/nova": "*",
         "laravel/tinker": "^1.0",
         "laravel/ui": "^1.0",
-        "laravel/nova": "*"
+        "league/flysystem-aws-s3-v3": "~1.0"
     },
     "require-dev": {
         "facade/ignition": "^1.4",
